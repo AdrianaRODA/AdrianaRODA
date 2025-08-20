@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adriana Rodriguez</h1>
 <h3 align="center">UX Product Designer and Analyst from Mexico</h3>
 
-- 🌱 I’m currently learning and improving **Data Analysis and Machine Learning**
+- 🌱 I’m currently learning and improving **Data Science and Machine Learning**
 
 - 👨‍💻 All of my UX projects are available at [https://adrianarodriguez.framer.website/en/home](https://adrianarodriguez.framer.website/en/home)
 
